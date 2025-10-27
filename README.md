@@ -33,7 +33,7 @@ Includes a responsive layout, **dark/light theme toggle**, and **localStorage** 
 ### 1️⃣ Clone this repository
 ```bash
 git clone https://github.com/ansari-aka/User_Management.git
-cd user-management-dashboard
+cd User_Management
 ```
 ### 2️⃣ Install dependencies
 ```bash
@@ -44,3 +44,8 @@ npm install
 ```bash
 npm run dev
 ```
+### 🖼️ Screenshots
+<img width="1920" height="1080" alt="Screenshot (1045)" src="https://github.com/user-attachments/assets/e55d60c6-9184-4645-9ebb-5d177538d8ff" />
+
+### Live Demo
+[link](https://user-management-dusky-three.vercel.app/)
